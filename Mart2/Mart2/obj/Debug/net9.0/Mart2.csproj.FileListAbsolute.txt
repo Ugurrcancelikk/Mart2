@@ -1,0 +1,15 @@
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\Mart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\Mart2.AssemblyInfoInputs.cache
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\Mart2.AssemblyInfo.cs
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\Mart2.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\Mart2.sourcelink.json
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\bin\Debug\net9.0\Mart2.exe
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\bin\Debug\net9.0\Mart2.deps.json
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\bin\Debug\net9.0\Mart2.runtimeconfig.json
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\bin\Debug\net9.0\Mart2.dll
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\bin\Debug\net9.0\Mart2.pdb
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\Mart2.dll
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\refint\Mart2.dll
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\Mart2.pdb
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\Mart2.genruntimeconfig.cache
+C:\Users\ugrst\Documents\GitHub\Subat1\Mart2\Mart2\obj\Debug\net9.0\ref\Mart2.dll
